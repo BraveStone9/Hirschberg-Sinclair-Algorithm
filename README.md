@@ -1,8 +1,9 @@
 # Leader-Election
 Hirschberg-Sinclair Algorithm for Leader Election in a distributed systems. 
 This is the assignment submitted for course Distributed Algorithms.
+#### This project is submitted by [Aditya Yadav](https://github.com/BraveStone9) and [Tushar Rewatkar](https://github.com/tusharrewatkar)
 
-This project is done by 
+
 -------------------------------------------------------------------------------------
 ## How the project works
 To run the project, 
